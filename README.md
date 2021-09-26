@@ -111,3 +111,32 @@ Point of Sale (POS) with N-Tier Architecture ([**5 Layers**](#solution)). This P
 
 <hr>
 
+## Quick Overview - Setup & Run
+
+>**Need to Download**:<br>[Visual Studio 2019](https://visualstudio.microsoft.com/downloads/)
+<br>[.NET Framework 4.8](https://dotnet.microsoft.com/download/dotnet-framework/net48)
+<br>[Microsoft SQL Server 2019 *Express (64-bit)*](https://www.microsoft.com/en-us/sql-server/sql-server-downloads)
+<br>[SQL Server Management Studio (SSMS) 18.9.2](https://docs.microsoft.com/en-us/sql/ssms/download-sql-server-management-studio-ssms?view=sql-server-ver15) 
+
+#### Step - 1 
+Download or Clone
+```sh
+git clone https://github.com/ahannan8559/point-of-sale
+```
+
+#### Step - 2
+Make [Database](#database) follow this [Diagram](#database-diagram)
+
+#### Step - 3
+Make Database connection on [**DataAccess Layer**](#2-dataaccess-layer)
+
+#### Step - 4
+Goto project folder **PointOfSaleProject** open 
+```POS.InventoryManagementSystem.sln``` with  ```Visual Studio```
+
+#### Step - 3
+Build & Run the project
+
+<hr>
+
+
