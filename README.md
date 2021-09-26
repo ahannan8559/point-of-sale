@@ -192,3 +192,76 @@ Build & Run the project
 <img src="markdownAssets/Diagram/DiagramDB.png"  width="auto" height="auto">
 
 
+# Screens
+
+## Windows Forms
+> **Note:** Using Default .NET UI Component And **Two 3rd Party** .NET UI & Reporting Components<br>(_**3rd Party UI Not Include on this repo**_) <br>
+ >  - [DevExpress](https://www.devexpress.com/)
+ >  -  [Guna UI2](https://gunaui.com/)
+
+### **# Login**
+<img src="markdownAssets/Screens/Login2.png"  width="auto" height="auto">
+
+### **# Dashboard**
+
+<img src="markdownAssets/Screens/Snapshot_1.png"  width="auto" height="auto">
+
+### **# Make Payment**
+
+<img src="markdownAssets/Screens/Snapshot_6.png"  width="auto" height="auto">
+
+### **# Sales History**
+
+<img src="markdownAssets/Screens/Snapshot_7.png"  width="auto" height="auto">
+
+### **# Master Categories**
+
+<img src="markdownAssets/Screens/Snapshot_9.png"  width="auto" height="auto">
+
+### **# Main Category**
+
+<img src="markdownAssets/Screens/Snapshot_18.png"  width="auto" height="auto">
+
+### **# Second Category**
+
+<img src="markdownAssets/Screens/Snapshot_10.png"  width="auto" height="auto">
+
+### **# Third Category**
+
+<img src="markdownAssets/Screens/Snapshot_12.png"  width="auto" height="auto">
+
+### **# Vendors**
+
+<img src="markdownAssets/Screens/Snapshot_13.png"  width="auto" height="auto">
+
+### **# Brands**
+
+<img src="markdownAssets/Screens/Snapshot_19.png"  width="auto" height="auto">
+
+### **# Products**
+
+<img src="markdownAssets/Screens/Snapshot_14.png"  width="auto" height="auto">
+
+### **# Employees & User Tracker**
+
+<img src="markdownAssets/Screens/Snapshot_16.png"  width="auto" height="auto">
+
+### **# Expenses Tracker**
+
+<img src="markdownAssets/Screens/Snapshot_15.png"  width="auto" height="auto">
+
+### **# Database Backup & Restore**
+
+<img src="markdownAssets/Screens/Snapshot_22.png"  width="auto" height="auto">
+
+<img src="markdownAssets/Screens/Snapshot_21.png"  width="auto" height="auto">
+
+<img src="markdownAssets/Screens/Snapshot_20.png"  width="auto" height="auto">
+
+## Note
+
+- Backup Microsoft SQL Database Script or .bak file  Not Include
+  <br>
+- 3rd Party .NET UI & Reporting Components Not Include [DevExpress](https://www.devexpress.com/) and [Guna UI2](https://gunaui.com/) Not Include
+
+### - Thank You.
