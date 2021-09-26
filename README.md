@@ -72,3 +72,42 @@
 
 Point of Sale (POS) with N-Tier Architecture ([**5 Layers**](#solution)). This Project was developed in C# and follows Object Relational Mapping (ORM) from scratch and using MS SQL Server 2019 and .NET Framework 4.8 as backend. Project-based on my university course curriculum [CSC 2210: Object Oriented Programming 2](https://www.aiub.edu/faculties/fst/ug-course-catalog).
 <br>
+
+
+#### This POS has **3 Roles** features. 
+
+## # Roles
+
+- User 1 : **Admin**
+- User 2 : **Cashier**  
+- User 3 : **Salesman**
+
+## # Features
+
+> ### **1. Admin**
+- Manage Employees – Add Employee, Delete Employee, Edit Employee Info.
+- Manage Products – Add Product, Delete Product, Edit Product Info.
+- Manage Stock – Add, Delete, Edit - Vendor’s Product.
+- Salary History Tracking.
+- Expenses & Liabilities Tracking.
+- Make Sell.
+- Bill Generate.
+- Selling History.
+- Database Backup & Restore.
+  
+<br>
+
+> ### **2. Cashier**
+- Make Sell.
+- Bill Generate.
+- Selling History.
+- Manage Stock.
+
+<br>
+
+> ### **3. Salesman**
+- Make Sell.
+- Bill Generate.
+
+<hr>
+
